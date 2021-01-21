@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1080101425813",
+    "firebase_url": "https://sugree-fe933.firebaseio.com",
+    "project_id": "sugree-fe933",
+    "storage_bucket": "sugree-fe933.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1080101425813:android:ba0be1e085d90b8139c19c",
+        "android_client_info": {
+          "package_name": "com.example.sugreeva"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1080101425813-mmh2hjr4p47tprq7jtl5vnno4mjoq5vd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_uE2DixW-LRonquOgAt49cxl9lGKBjEw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1080101425813-mmh2hjr4p47tprq7jtl5vnno4mjoq5vd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
